@@ -3,7 +3,7 @@
 # Ícones e Ilustrações Gratuitos
 Assim como todo mundo que elabora o design de um site, sempre fiquei olhando aqueles sites fodásticos com ilustrações e composições incríveis, mas sem ter a mínima ideia de como achar bons recursos para criar algo parecido nos meus projetos. Com o tempo fui encontrando sites que disponibilizavam ilustrações e ícones gratuitamente e salvando eles em uma pasta do meu navegador. 
 
-Porém, assim como um dia eu desejei ter esses recursos para compor minhas interfaces, acredito que outros desenvolvedores e Designers também adorariam ter acesso a um bom acervo para usar quando quiser. É por isso que estou criando este repositório com todos os liks que eu achei (e os que irei achar futuramente) de ícones de ilustrações totalmenre free. :)
+Porém, assim como um dia eu desejei ter esses recursos para compor minhas interfaces, acredito que outros desenvolvedores e Designers também adorariam ter acesso a um bom acervo para usar a qualquer momento. É por isso que estou criando este repositório com todos os liks que eu achei (e os que irei achar futuramente) de ícones de ilustrações totalmenre free. :)
 
 Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com colegas e/ou com grupos
 
@@ -46,6 +46,9 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [IRA Design](https://iradesign.io/)
 [Absurd Design](https://absurd.design/)
 [Humaaans](https://www.humaaans.com/)
+[Toy Faces](https://amritpaldesign.com/toy-faces)
+[Kukla Kit](https://www.kukla-kit.com/)
+[Construtor de Ilustrações](https://itg.digital/)
 
 ## Ícones
 [css.gg](https://css.gg/)
@@ -70,7 +73,9 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [Streamline UX](https://www.streamlineicons.com/ux/)
 [Steamline Free](https://www.streamlineicons.com/free/)
 [Flaticon](https://www.flaticon.com/packs)
-
+[Tabler Icons](https://tablericons.com/)
+[Newsbi Icon Pack](https://gumroad.com/l/lfdy)
+[Line Awesome](https://icons8.com/line-awesome)
 
 ## Sites para achar recursos grátis
 [Evernote Design](https://www.evernote.design/)

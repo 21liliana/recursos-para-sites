@@ -79,7 +79,7 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 
 ## Sites para achar recursos grátis
 [Evernote Design](https://www.evernote.design/)  
-[Newslleter UI Lab](https://uilab.com.br/)  
+[Newsletter UI Lab](https://uilab.com.br/)  
 [Design Resources](https://www.designresourc.es/)  
 
 

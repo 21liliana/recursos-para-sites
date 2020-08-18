@@ -81,6 +81,7 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [Evernote Design](https://www.evernote.design/)  
 [Newsletter UI Lab](https://uilab.com.br/)  
 [Design Resources](https://www.designresourc.es/)  
+[Bookmarks.design](https://www.bookmarks.design/)
 
 
 

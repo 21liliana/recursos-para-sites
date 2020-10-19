@@ -76,6 +76,7 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [Tabler Icons](https://tablericons.com/)  
 [Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
 [Line Awesome](https://icons8.com/line-awesome)  
+[Radix Icons](https://icons.modulz.app)
 
 ## Sites para achar recursos grátis
 [Evernote Design](https://www.evernote.design/)  

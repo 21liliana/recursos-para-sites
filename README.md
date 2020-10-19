@@ -49,7 +49,8 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [Toy Faces](https://amritpaldesign.com/toy-faces)  
 [Kukla Kit](https://www.kukla-kit.com/)  
 [Construtor de Ilustrações](https://itg.digital/)  
-[Ara Illustration](https://www.aracreator.com/)
+[Ara Illustration](https://www.aracreator.com/)  
+[3000 Hands](https://www.shapefest.com/expansions/3000-hands)
 ## Ícones
 [css.gg](https://css.gg/)  
 [Icon Icons](https://icon-icons.com/)  

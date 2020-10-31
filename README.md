@@ -50,7 +50,8 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [Kukla Kit](https://www.kukla-kit.com/)  
 [Construtor de Ilustrações](https://itg.digital/)  
 [Ara Illustration](https://www.aracreator.com/)  
-[3000 Hands](https://www.shapefest.com/expansions/3000-hands)
+[3000 Hands](https://www.shapefest.com/expansions/3000-hands)  
+[GetIllustrations.com](https://www.getillustrations.com/illustration-packs/freebie)  
 ## Ícones
 [css.gg](https://css.gg/)  
 [Icon Icons](https://icon-icons.com/)  

@@ -52,6 +52,8 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [Ara Illustration](https://www.aracreator.com/)  
 [3000 Hands](https://www.shapefest.com/expansions/3000-hands)  
 [GetIllustrations.com](https://www.getillustrations.com/illustration-packs/freebie)  
+[Illustrations Figma](https://www.artify.co/illustrations-figma)  
+[Vector Illustrations](https://www.artify.co/vector-illustrations)  
 ## Ícones
 [css.gg](https://css.gg/)  
 [Icon Icons](https://icon-icons.com/)  
@@ -79,6 +81,8 @@ Espero que tudo seja bastante útil ;) E se for, compartilhe o repositório com 
 [Newsbi Icon Pack](https://gumroad.com/l/lfdy)  
 [Line Awesome](https://icons8.com/line-awesome)  
 [Radix Icons](https://icons.modulz.app)
+[3dicons](https://www.3dicons.com/)
+[Iconshock](https://www.iconshock.com/)
 
 ## Sites para achar recursos grátis
 [Evernote Design](https://www.evernote.design/)  
